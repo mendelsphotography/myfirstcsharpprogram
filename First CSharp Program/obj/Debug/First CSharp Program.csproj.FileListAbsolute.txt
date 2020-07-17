@@ -1,0 +1,17 @@
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\bin\Debug\First CSharp Program.exe.config
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\bin\Debug\First CSharp Program.exe
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\bin\Debug\First CSharp Program.pdb
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First_CSharp_Program.Form1.resources
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First_CSharp_Program.Properties.Resources.resources
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program.csproj.GenerateResource.cache
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program.csproj.CoreCompileInputs.cache
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program.exe
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program.pdb
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First_CSharp_Program.AboutBox1.resources
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program.csprojAssemblyReference.cache
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\UserControl1.g.cs
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program_MarkupCompile.cache
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program_MarkupCompile.lref
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\UserControl1.baml
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First CSharp Program.g.resources
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Debug\First_CSharp_Program.Form2.resources

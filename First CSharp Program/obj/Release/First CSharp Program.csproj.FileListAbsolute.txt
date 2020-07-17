@@ -1,0 +1,9 @@
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\bin\Release\First CSharp Program.exe.config
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\bin\Release\First CSharp Program.exe
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\bin\Release\First CSharp Program.pdb
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Release\First_CSharp_Program.Form1.resources
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Release\First_CSharp_Program.Properties.Resources.resources
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Release\First CSharp Program.csproj.GenerateResource.cache
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Release\First CSharp Program.csproj.CoreCompileInputs.cache
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Release\First CSharp Program.exe
+c:\users\otc\source\repos\First CSharp Program\First CSharp Program\obj\Release\First CSharp Program.pdb
